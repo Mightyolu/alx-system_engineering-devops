@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $PATH l tr ":"\n" l wc-1
