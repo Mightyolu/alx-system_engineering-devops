@@ -1,1 +1,1 @@
-this project will be interesting
+repository is good
